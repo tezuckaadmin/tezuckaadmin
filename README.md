@@ -1,3 +1,3 @@
 # Hi there 👋
 
-This is a admin account for tezucka corporation.
+I am the admin account for [Tezucka Tech](https://tezucka.xyz/).
